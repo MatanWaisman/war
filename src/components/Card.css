@@ -1,0 +1,19 @@
+.cardOne{
+text-align: center;
+border: black 1px;
+border-style: solid;
+display: inline-flex;
+padding: 7%;
+border-radius: 3px;
+background-color: lightgrey;
+}
+.cardTwo{
+    text-align: center;
+    border: black 1px;
+    border-style: solid;
+    display: inline-flex;
+    padding: 7%;
+    border-radius: 3px;
+    background-color: lightgrey;
+
+    }

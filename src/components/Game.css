@@ -1,0 +1,41 @@
+.homepage h1{
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: black 1px 1px;
+}
+
+.homepage button{
+    border-radius: 3px;
+    background-color: blue;
+    color: white;
+}
+.Computer{
+    text-align: left;
+    margin-left: 25%;
+    display: flex;
+}
+
+.You{
+    text-align: right;
+    margin-left: 60%;
+    display: inline-flex;
+}
+
+.next{
+    display: inline;
+    border-radius: 3px;
+    background-color: blue;
+    color: white;
+}
+
+.winLose{
+    text-align: center;
+    color: red;
+}
+
+.againBtn{
+    border-radius: 3px;
+    background-color: blue;
+    color: white;
+}
